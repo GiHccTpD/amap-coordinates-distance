@@ -21,3 +21,11 @@ func main() {
 	fmt.Println("distance: ", distance)
 }
 ```
+
+输出
+
+```bash
+➜ Proving Ground go run amap/amap.go
+distance:  1569.6213922676518
+```
+
